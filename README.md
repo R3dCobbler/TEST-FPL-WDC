@@ -1,2 +1,0 @@
-# TEST-FPL-WDC
-Test for FPLWDC
